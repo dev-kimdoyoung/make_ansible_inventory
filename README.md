@@ -9,7 +9,7 @@
 - Pandas
 
 ```bash
-$ git clone [{this project}](https://github.com/dev-kimdoyoung/make_ansible_inventory/)
+$ git clone https://github.com/dev-kimdoyoung/make_ansible_inventory/
 $ python main.py
 ```
 
